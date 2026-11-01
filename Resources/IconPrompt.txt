@@ -1,0 +1,15 @@
+Generated with the built-in image_gen.imagegen tool on 2026-11-01.
+Original: /Users/lmathis/.codex/generated_images/01a19714-065a-7501-97b5-cd3b00bba21f/exec-f940d3bf-61ef-42e6-83cf-f8786a617d64.png
+Project raster: Resources/AppIcon.png
+Project macOS icon: Resources/AppIcon.icns
+
+Exact generation prompt:
+
+Use case: stylized-concept
+Asset type: production macOS application icon for DeviceControlDoctor, square 1024 by 1024, transparent background outside icon.
+Primary request: a polished native macOS icon for a utility that diagnoses and repairs device-control accessibility permissions.
+Subject: a simple sculptural white stethoscope on a rounded-square dark navy and teal glass tile; the stethoscope's round chestpiece subtly incorporates a small crisp cursor/pointer, plus one restrained amber diagnostic indicator.
+Style/medium: premium restrained 3D macOS app icon, clean soft bevels, tactile ceramic white and deep translucent teal, soft studio lighting.
+Composition/framing: centered front-facing single icon with consistent generous inset, large bold silhouette recognizable at 32px. Rounded square fills about 85 percent of canvas. Transparent canvas outside the rounded square.
+Lighting/mood: calm trustworthy precise, subtle upper-left highlight, gentle depth, no dramatic flare.
+Constraints: no text, no letters, no watermark, no red cross, no extra symbols, no tiny clutter, no background scene. Actual transparent alpha outside rounded-square tile.

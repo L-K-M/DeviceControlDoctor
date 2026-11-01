@@ -1,6 +1,11 @@
 # DeviceControlDoctor
 
+> [!IMPORTANT]
+> LLM disclosure: This codebase was written with substantial help from large language models: AI coding agents working from the [`AGENTS.md`](AGENTS.md) brief in this repo.
+
 A native macOS utility for investigating apps whose Device Control and Data Access (formerly Accessibility) permission looks enabled but does not work.
+
+**Latest release:** v<!-- version -->0.1.0<!-- /version --> · [Download](https://github.com/L-K-M/DeviceControlDoctor/releases/latest)
 
 ![App icon](Resources/AppIcon.png)
 
@@ -13,7 +18,7 @@ Requires macOS 14 or later and Xcode 16 or later (Swift 6 toolchain). Permission
 ```sh
 swift test
 ./scripts/build-app.sh
-open build/DeviceControlDoctor.app
+open dist/DeviceControlDoctor.app
 ```
 
 The script builds a release `.app` with the generated icon and ad-hoc signs it for local use. For a stable signing identity:
@@ -65,3 +70,7 @@ The menu bar item keeps the app accessible when its windows close. Optional chec
 - [BetterTouchTool: multi-app startup reports](https://community.folivora.ai/t/issue-with-permissions-in-macos-27/47854) — delayed startup is an observed workaround, not a confirmed universal cause.
 
 The app icon was generated with the built-in image-generation tool. Exact prompt and provenance: [Resources/IconPrompt.txt](Resources/IconPrompt.txt).
+
+## License
+
+DeviceControlDoctor is released into the public domain under the [Unlicense](LICENSE).
